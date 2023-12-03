@@ -1,6 +1,6 @@
 # Personality-Development
-Grow and Build Yourself
-Hello Dreamer, Wake to the reality! Know the science behind English
+***Grow and Build Yourself***
+- Hello Dreamer, Wake to the reality! Know the science behind English
 
 ## Task 1 and Task 2
 
