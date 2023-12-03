@@ -46,16 +46,16 @@ Hello Dreamer, Wake to the reality! Know the science behind English
 ## Task 3
 
 ### How to be correct in English?
-| | |
+|       |               |
 |-------|---------------|
 | Start| 1. D Techniques|
 |      | 2. Time and Sense |
 |Finish| 3. Formation Sheet|
 
 - Formation Sheet FS
-- |-----------|---------|----------|
-- |FS1 - 35% Accuracy | FS2 - 75% Accuracy| FS3 - 100% Accuracy|
-- | Base 1            | Base 2            | Base 3 |
+  |FS1 - 35% Accuracy | FS2 - 75% Accuracy| FS3 - 100% Accuracy|
+  |-----------|---------|----------|
+  | Base 1            | Base 2            | Base 3 |
 
 ### 1. Master Time in any sentence
 - Time of the sentence would be only in { Past, Present, Future }
@@ -79,7 +79,7 @@ Hello Dreamer, Wake to the reality! Know the science behind English
 
 ### PARST OF SPEECH (POS)
 ***
--> 8 Types of parts of speech
+- 8 Types of parts of speech
 1. Articles
 2. Nouns
 3. Verbs
@@ -89,7 +89,7 @@ Hello Dreamer, Wake to the reality! Know the science behind English
 7. Preposition
 8. Conjunctions
 
-#### 1.Articles - A/An/The
+#### 1. Articles - A/An/The
 - A -> Uses with Consonants for Singular
 - An -> Use with Vowels {a,e,i,o,u} for Singular
 - The -> Use with specific thing for both Singular/Plural
@@ -98,44 +98,44 @@ Hello Dreamer, Wake to the reality! Know the science behind English
    - I want **an** apple.
    - I want **the** toy, which I gave to you.
  
-#### 2.Noun - Anyword (Name/Person/Place/Animals/Thing/Ideas)
+#### 2. Noun - Anyword (Name/Person/Place/Animals/Thing/Ideas)
 - eg:-
    - **Rahul** is a good **boy**.
    - **India Gate** is in **Delhi**.
    - **My feelings** are pure towards my teachers.
  
-#### 3.Adjectives - Anyword which describe Quality of Noun
+#### 3. Adjectives - Anyword which describe Quality of Noun
 - eg:-
   - Sachin Sir is a **good** teacher.
   - Priya is a **beautiful** girl.
  
-#### 4.Pronouns - Anyword which can be used in place of Noun
+#### 4. Pronouns - Anyword which can be used in place of Noun
 - {He,She,I,You,It,We,They,who,Them,Him,Her}
 - eg:-
   - Ram is a good leader. **He** is handsome too.
   - Priya is a beautiful girl. **She** is my sister.
   - My name is Ram. **I** am your career coach.
 
-#### 5.Verbs - Any action which noun is taking.
+#### 5. Verbs - Any action which noun is taking.
 - eg:-
   - Ram **goes** to school.
   - I **will sing** a song.
   - Rohan **is dancing**.
  
-#### 6.Adverbs = Adjective + Verb -> Anyword which describe Quality of Verb
+#### 6. Adverbs = Adjective + Verb -> Anyword which describe Quality of Verb
 - eg:-
   - Ram is speaking **loudly**.
   - He **quietly** asked me leave the house.
   - She **slowly** came and sat next to me.
 
-#### 7.Prepositions - 
+#### 7. Prepositions - 
 - {in,on,at,under,below}
 - eg:-
   - Ram is sitting **on** the chair.
   - I will meet him **at** 5 pm.
   - Cat is sitting **under** the table/tree.
  
-#### 8Conjunctions - 
+#### 8. Conjunctions - 
 - {and,but,or,nor,for,yet,so,neither,though}
 - eg:-
   - Tom **and** Jerry went to the forest.
@@ -174,14 +174,115 @@ Hello Dreamer, Wake to the reality! Know the science behind English
 |------|------|------|----|----|
 | Go | Went | Gone| Going | Go/Goes|
 
-#### 
+### 2 + 2 Rules of Spoken English
+***
+  
+1. {Singular, Plural} {Past, Present}
+2. **is/am/are/do/does/has/have** {Present}
+3. **was/were/did/had**  {Past}
+4. **do/does/did** -> Always use **V1** with them
+5. **has/have/had** -> Always use **V3** with them
+
+| Singular  |  Plural |
+|----------|---------|
+| Only one Unit| More than 1 unit|
+|He,She,It,I,You,Ram| We,They, Ram and Shyam|
+
+| Is,Am,Are | Was,Were|
+|-----------|----------|
+| He is a good boy.| He was a good boy.|
+| Ram is a good boy.| Ram was a good boy.|
+| Ram and Shyam are the good boys.|Ram and Shyam were the good boy.|
+|We are the good boys.|We were the good boys.|
+|~You is a good boy.~|~You was a good boy.~|
+| You are a good boy.| You were a good boy.|
+
+| Has,Have (Present) | Had (Past) |
+|----------|-----|
+|He has completed the work.|He had completed the work.|
+|Ram has a problem.|Ram had a problem.|
+|~I has a good memory.~|I had a good memory.|
+|I have a good memory.|I had a good memory.|
+|We have forgotten the past.|We had forgotten the past.|
+|~You has done it incorrectly.~|You had done it incorrectly.|
+|You have done it incorrectly.|You had done it incorrectly.|
 
 
+| Does/Do (Present)| Did (Past) |
+|------------------|------------|
+|He does not play cricket.|He did not play cricket.|
+|Ram does a good work.|Ram did a good work.|
+|~I does a good work.~|I did a good work.|
+|I do a good work.|I did a good work.|
+|We do a lot of work.|We did a lot of work.|
+|~You does nothing.~|You did nothing.|
+|You do nothing.|You did nothing.|
+|Ram and Shyam do not go to the school.|Ram and Shyam did not go to the school.|
+
+|Present|Past|
+|-------|----|
+|Is/Am/Are| was/were|
+|Does/Do| Did|
+|Has/Have|Had|
 
 
+### Tenses Magic Series or Formation Sheet 1
+***
+#### TENSES
+- **Time(WAQT)** is tenses.
+- All the sentences of the world fall under 3 times only {past,present,future}
+- **Past-------->Present--------->Future**
+  
+- **SENSE** :- What is the sense of any sentence?
+  1. C.... -> Continuity
+  2. C.    -> Completed
+  3. S     -> Simple, Neither Continuity nor Completed
+  eg:-
+    - main aapko pdha rha tha -> past
+
+> Wrong Sequence 
+> Wrong Complex Words like Indefinite, Perfect etc
+> Wrong Connection
 
 
+|     |     Tenses     |  (Time)        |               |
+|-----|----------------|----------------|---------------|
+|Time |     Past       |     Present    |    Future     |
+|Sense| {S ,C... ,C }  | {S ,C... ,C }  | {S ,C... ,C } |
+|Level|  Easy          | Very Easy      | Very very Easy|
+|     |  Past Simple             |  Present Simple            | Future Simple            |
+|     |  Past Continuous         | Present Continuous         | Future Continuous        |
+|     |  Past Perfect            | Present Perfect            | Future Perfect           |
+|     |  Past Perfect Continuous | Present Perfect Continuous | Future Perfect Continuous|
 
+eg:-
+ - I go to the temple
+
+Structure of Past Tense
+| Past Simple | Past Perfect | Past Continuous | Past Perfect Continuous|
+|-------------|--------------|-----------------|------------------------|
+| + V2         | had + V3      | was/were + V1+ing     | had been + V1+ing since/for  |
+| did not + V1 | had not + V3  | was/were not + V1+ing | had been not + V1+ing since/for |
+
+Structure of Present Tense
+| Present Simple | Present Perfect | Present Continuous | Present Perfect Continuous|
+|------------------|--------------------|------------------------|--------------------------------------|
+|  V1+s/es         | has/have + V3      | is/am/are + V1+ing     | has/have been + V1+ing since/for     |
+| does/do not + V1 | has/have not + V3  | is/am/are not + V1+ing | has/have been not + V1+ing since/for |
+
+Structure of Future Tense
+| Future Simple | Future Perfect | Future Continuous | Future Perfect Continuous|
+|-------------------|--------------------|------------------------|--------------------------------------|
+| will + V1         |                    | will be + V1+ing       |                                      |
+| will not + V1     |                    | will be not + V1+ing   |                                      |
+| shall+ V1         |                    |                        |                                      |
+
+- Tense and 3PS are two different thing:- 
+eg:-
+  - I am a boy. -> 3PS
+  - I play cricket. -> Tenses
+
+## Task 5
 
 
 
