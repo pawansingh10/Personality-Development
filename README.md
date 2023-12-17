@@ -334,6 +334,13 @@ eg:-
 #### Reverse Techniques ==))) Hindi to English == English to Hindi
 - if Hindi==English : Correct
 - else : Incorrect
+
+
+##### Tenses Practice set 3
+- Restart from here Task 4
+##### Tenses Practice set 4
+
+##### Final Tenses Revison
   
 ## Task 5
 
