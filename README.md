@@ -264,6 +264,7 @@ Structure of Past Tense
 | + V2         | had + V3      | was/were + V1+ing     | had been + V1+ing since/for  |
 | did not + V1 | had not + V3  | was/were not + V1+ing | had been not + V1+ing since/for |
 
+
 Structure of Present Tense
 | Present Simple | Present Perfect | Present Continuous | Present Perfect Continuous|
 |------------------|--------------------|------------------------|--------------------------------------|
@@ -281,7 +282,59 @@ Structure of Future Tense
 eg:-
   - I am a boy. -> 3PS
   - I play cricket. -> Tenses
+    
+##### Revision
+> ***Tenses comes only you are talking/using verbs otherwise It would be in 3PS(Noun/Adjective)***
 
+- **Past**
+- Recent past -> +v2
+- Extreme past -> Had + V3
+- Continuity in past -> was/were + V1+ing
+- Continuity + time(origin) -> had been + V1+ing since/for
+
+- **Present**
+- Recent present/simple/ongoing -> V1+s/es
+- Extreme present -> has/have + V3
+- Continuity in present -> is/am/are + V1+ing
+- Continuity + time(origin) -> has/have been + V1+ing since/for
+
+- **Future**
+- Recent Future/Simple -> will + V1  || Que? shall
+- Extreme future -> Not imp
+-  Continuity in future -> is/am/are + V1+ing
+-  Continuity + time -> Not imp
+
+##### Tenses Practice set 1
+
+- Time = [Past,Present,Future]
+- Sense = [Simple,Continuous,Completed]
+1. I **did not the steal** your pen. || I **had not stolen** your pen. {Past:Simple/Recent Completed}
+2. The suspect **has** run away from the crime scene. {Present:Completed}
+3. I **will be** watering the plants tomorrow in the morning. {Future:}
+4. My friends **had been** playing chess **for hours**. {Past:}
+5. Radhika **will not be chatting** the after tomorrow. {Future:}
+
+##### Tenses Practice set 2
+6. CSK **is not winning** the IPL matches. {Present : Continuity}
+7. I **had worn** the cartoon dress for the fancy dress competition. {Past: Extreme Completed}
+8. The children **swing** in the school playground every afternoon. {Present : Simple}
+9. The Dogs **have been barking for** 2hrs. {Present : Continuity+Time}
+10. He **didn't follow** the traffic rule. {Past : Simple}
+
+#### Complete the sentence through Techniue i.e. D-Techniques
+- When you feel sentence is too long & difficulty in formation.
+- e.g :
+  - Main kal shamm ko khel rha tha.
+  - Main khel rha tha + Sham ko
+  - I was playing + in the evening
+  - I am teaching English + to you
+  - Netaji ke iss statement pe mach gya bawal.
+  - Scene has been created + on this statement of Netaji  
+
+#### Reverse Techniques ==))) Hindi to English == English to Hindi
+- if Hindi==English : Correct
+- else : Incorrect
+  
 ## Task 5
 
 
