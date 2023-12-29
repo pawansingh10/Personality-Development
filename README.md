@@ -400,7 +400,7 @@ eg:-
 
 eg :-
 | Sentence| Time & Sense |Action or Status|FS1 or FS2|
-|---------|--------------|-------------|
+|---------|--------------|-------------|----|
 | 1.Sapna wait kregi |Future-Simple|Action| FS1|
 | Sapna will wait||||
 | 2.Deepika acting kr rhi hogi |Future-C..|Action|FS1|
