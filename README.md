@@ -370,8 +370,66 @@ eg:-
 
  | Rule | ? |
  |-------|----|
- |If Action |then FS1|
- |If Status |then FS2|
+ |**If Action** |**then FS1**|
+ |**If Status** |**then FS2**|
+
+### How be to Correct in English
+- FS1 sheet= Action(verb) Sheet (Tenses) 
+#### FS2 Sheet
+
+| Formula |
+|-----------|
+|1. D-Technique|
+|2. Time & Sense|
+|3. Formation Sheet|
+> **According to D-Technique Use FS1(Verb Sheet) in case of Action, Use FS2 in case of status**
+
+ - | Base 1 | Base 2 | Base 3|
+   |---------|-------|-------|
+   |FS1 (Upto 35%) |  FS2 (Upto 75%)| FS3 (Upto 100%) |
+
+#### FS2 (Status=[Noun,Adjective])
+
+|     |     Tenses     |  (Time)        |               ||
+|-----|----------------|----------------|---------------|----|
+|Time |     Past       |     Present    |    Future     ||
+|Sense| {S ,C... ,C }  | {S ,C... ,C }  | {S ,C... ,C } ||
+|     | was/were + Status | had + been + Status| was/were + being + Status| had been + Status (since/for)|
+|     | is/am/are + Status |has/have + been + Status|is/am/are + being + Status| has/have been + Status(since/for)|
+|     | will be  + Status | NA| NA| |
+
+eg :-
+| Sentence| Time & Sense |Action or Status|FS1 or FS2|
+|---------|--------------|-------------|
+| 1.Sapna wait kregi |Future-Simple|Action| FS1|
+| Sapna will wait||||
+| 2.Deepika acting kr rhi hogi |Future-C..|Action|FS1|
+| Deepika will be acting||||
+| 3.English Astra best english book hogi| Future | Status|FS2|
+| English Ashtra will be the best English book||||
+| 4.BJP 2024 me election winner hogi|Future-Simple|Status|FS2|
+| BJP will be the election winner in 2024||||
+| 5.Tanya aa gyi hai |Present-Simple|Action|FS1|
+| Tanya has come||||
+| 6.Wo sb dharmo ki respect krta hai|Present-Simple|Action|FS1|
+| He respects all religion||||
+| 7.Pushpa live classes attend kar rhi hai|Present-C...|ACtion|FS1|
+| Pushpa is attending the live classes||||
+| 8.Wo subah se police ko call kr rha hai|Present+C...|Action|FS1|
+| He has been calling the police since morning||||
+| 9.Log Sam Altman se jealous ho rhe hai |Present+C...|Status|FS2|
+| People are being jealous of Sam Altman||||
+| 10.Indian Cricket fans sham 6 bje se aggresive ho rhe hai|Present+C...|Status|FS2|
+| Indian cricket fans have been aggresive since 6'O clock in the evening||||
+
+eg:-
+ - I am doing good.
+ - I am working. | I am doing work.
+
+
+
+
+
 
 
 
