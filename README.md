@@ -344,6 +344,35 @@ eg:-
   
 ## Task 5
 
+# FS2 Practice
+***
+### Status and Action
+- Ye kya hai?
+- Ye kaun hai?
+- Status kya hai?  meaning "Noun"
+  - Doctor | Engg | Advocate | Actor | Virat Kohli |
+  -  Man and Woman | Rich poor | old young |
+
+- Action
+   - Swim | eat | drink | cook | Watch |
+ 
+- eg:- Status or Action
+  -  wah **khel rha hai** - Action
+  -  wah **accha aadmi hai** -Status
+  -  Mai **park jata hu** - Action
+  -  Albert Einstein **ek genius the** - Status
+  -  Shreya **pdhai kar rhi hai** - Action
+  -  Ram **6 foot 2 inch tall tha** - Status
+  -  Mummy **kl kpde dhoo rhi thi** - Action
+  -  Australlian bowlers **jealous hai** - Status
+  -  Shahrukh Khan **shooting kar rha hoga** - Action
+  -  Mai **aaj bahut khoosh hu** - Status
+
+ | Rule | ? |
+ |-------|----|
+ |If Action |then FS1|
+ |If Status |then FS2|
+
 
 
 
